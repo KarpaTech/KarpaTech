@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🎓 Boa pra nós! Me chamo Pedro 😁
 
-<!--
-**KarpaTech/KarpaTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem-vindo ao meu GitHub! Aqui compartilho minha jornada e projetos como estudante de DEV Full-Stack.
 
-Here are some ideas to get you started:
+Sou entusiasta por tecnologia, especialmente por linguagens de programação e soluções que impactam positivamente o setor público. Estou sempre em busca de novos aprendizados, seja em programação, ciência de dados ou educação financeira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cursando *Lógica de Programação* na *EducAfroTech*, inserido no programa *Transforme-se* do *Senac-SP*,uma iniciativa em parceria com o *Serasa* e a *Gerando Falcões*. 
+
+Atualmente, estou aprofundando meus conhecimentos em:
+*Lógica de programação* |*Ciência da computação*. Linguagens como: *Python*| *C#*| *JavaScript*| e Dados: *MySQL*
+
+#  Habilidades Pessoais:
+Programação: Python, C#, JavaScript
+Banco de Dados: MySQL
+Ferramentas: Visual Studio Code, GitHub, Armazenamento em nuvem
+Certificações: Lógica de Programação, Informática Aplicada, Inglês (Senac e Gerando Falcões)
+Interesses: Resolução de problemas, inovação no setor público, ciência de dados, contabilidade e educação financeira
+
+## Posso te ajudar com: desenvolvimento backend |Otimização de processos| Primeiros passos com lógica de programação
+
+## 📫 Como entrar em contato comigo?
+🎓LinkedIn: (https://www.linkedin.com/in/pedrohenrique/)
+✉️ Email: karpatech2025@gmail.com
+ 
+ > *O conhecimento é a única riqueza.*
