@@ -1,6 +1,6 @@
 # 🎓 Boa pra nós! Me chamo Pedro 😁
 
-## Bem-vindo ao meu GitHub! Aqui compartilho minha jornada e projetos como estudante de DEV Full-Stack.
+## Bem-vindo ao meu GitHub! No intuito de compartilhar projetos e meu processo como estudante de DEV Full-Stack.
 
 Sou entusiasta por tecnologia, especialmente por linguagens de programação e soluções que impactam positivamente o setor público. Estou sempre em busca de novos aprendizados, seja em programação, ciência de dados ou educação financeira.
 
@@ -22,4 +22,4 @@ Interesses: Resolução de problemas, inovação no setor público, ciência de 
 🎓LinkedIn: (https://www.linkedin.com/in/pedrohenrique/)
 ✉️ Email: karpatech2025@gmail.com
  
- > *O conhecimento é a única riqueza.*
+ > **O conhecimento é a única riqueza.**
