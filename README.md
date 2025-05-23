@@ -1,6 +1,6 @@
 # 🎓 Boa pra nós! Me chamo Pedro 😁
 
-## Bem-vindo ao meu GitHub! No intuito de compartilhar projetos e meu processo como estudante de DEV,e Analista de Dados.
+## Bem-vindo ao meu GitHub! No intuito de compartilhar projetos e meu processo como estudante de DEV, e Analista de Dados.
 
 Sou entusiasta por tecnologia, especialmente por linguagens de programação e soluções que impactam positivamente o setor público. Estou sempre em busca de novos aprendizados, seja em programação, ciência de dados ou educação financeira.
 
