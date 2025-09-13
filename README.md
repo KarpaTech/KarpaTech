@@ -19,7 +19,7 @@ Interesses: Resolução de problemas, inovação no setor público, ciência de 
 ## Posso te ajudar com: desenvolvimento Back-End |Otimização de processos| Primeiros passos com lógica de programação
 
 ## 📫 Como entrar em contato comigo?
-🎓LinkedIn: (www.linkedin.com/in/pedro-henrique-0986941b7)
+🎓LinkedIn: https://www.linkedin.com/in/pedro-henrique-o13/
 ✉️ Email: karpatech2025@gmail.com
  
  > **O conhecimento é a única riqueza.**
